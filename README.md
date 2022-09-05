@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Ecommerce app](https://github.com/enosgb/Desenvolvedor-M3)
 
-- 🤝 I’m looking for help with [Services Windows in python](https://github.com/enosgb/windows-service-python)
+- 🤝 I’m looking for help with [Windows services in python](https://github.com/enosgb/windows-service-python)
 
 - 📝 I regularly write articles on [https://www.instagram.com/enosgb/](https://www.instagram.com/enosgb/)
 
