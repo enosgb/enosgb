@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [All Safe Antivirus](https://github.com/enosgb/AllSafe)
 
-- 🌱 I’m currently learning **Angular, NodeJs , Javascript ,python ,Bootstrap & HTML|CSS**
+- 🌱 I’m currently learning **React, NodeJs , Javascript, Typescript e python**
 
 - 👯 I’m looking to collaborate on [Ecommerce app](https://github.com/enosgb/Desenvolvedor-M3)
 
