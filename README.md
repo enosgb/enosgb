@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://www.instagram.com/enosgb/](https://www.instagram.com/enosgb/)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **enosgb55@gmail.com**
 
