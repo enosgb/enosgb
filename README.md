@@ -52,18 +52,25 @@ Cloud-based antivirus with API-driven processing
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enosgb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enosgb&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enosgb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enosgb&theme=dracula" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enosgb&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enosgb&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enosgb&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=enosgb&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enosgb&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
