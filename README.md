@@ -1,86 +1,137 @@
-<h1 align="center">Hi 👋, I'm Enos Gabriel</h1>
-<h3 align="center">Senior Backend / Full Stack Engineer</h3>
+# 👋 Hi, I'm Enos Gabriel
+
+## Senior Backend / Full Stack Engineer
+
+💼 **7+ years** of experience building scalable systems | 🌍 **Remote Worldwide** from Recife, Brazil
+
+---
+
+### 🚀 About Me
+
+Senior Backend-focused Full Stack Engineer specializing in **Python, Django, Node.js**, and cloud-based solutions. Started coding at 17 with C++ ERP systems and have been building high-performance, scalable applications ever since.
+
+- 🔭 Currently working on: **[AdMaker](https://github.com/enosgb/admaker_back)** - Full-stack ads management platform
+- 🌱 Expertise: Backend Architecture, REST APIs, Microservices, System Design
+- 💡 Focus: Performance Optimization, Security (JWT, OAuth), Cloud Infrastructure (AWS, Docker)
+- 🎯 Looking for: International remote opportunities with simple hiring processes
+- 📫 Reach me: **enosgb55@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Backend:**
+```
+Python  •  Django  •  Django REST Framework  •  Node.js  •  Express  •  C#
+```
+
+**Frontend:**
+```
+React  •  Vue.js  •  TypeScript  •  JavaScript  •  HTML/CSS  •  Tailwind CSS
+```
+
+**Databases:**
+```
+PostgreSQL  •  MySQL  •  MongoDB  •  MSSQL  •  Oracle  •  Redis
+```
+
+**DevOps & Cloud:**
+```
+AWS  •  Docker  •  Docker Compose  •  CI/CD  •  Linux  •  IIS
+```
+
+**Tools & Practices:**
+```
+Git  •  REST APIs  •  Microservices  •  System Design  •  Scrum  •  pytest  •  Swagger/Redoc
+```
+
+---
+
+### 🌟 Featured Projects
+
+#### 🎯 [AdMaker Backend](https://github.com/enosgb/admaker_back)
+Scalable REST API for complete advertisement management
+- **Stack:** Django 6, DRF, Python 3.12, PostgreSQL, Redis
+- **Features:** JWT Auth, Advanced Filtering, Pagination, Favorites System
+- **Performance:** Redis caching, Comprehensive testing (pytest)
+- **Deployment:** Docker Compose, Cloudinary media storage
+- **Docs:** Swagger/Redoc (drf-yasg)
+
+#### 🎨 [AdMaker Frontend](https://github.com/enosgb/admaker_front)
+Modern, responsive SPA for ads management
+- **Stack:** Vue 3 (Composition API), Vite, TypeScript, Pinia, Tailwind CSS
+- **Features:** Complete auth flows, Advanced filtering, Responsive design
+- **UX:** Skeleton loading, Efficient loading states
+
+#### 🛡️ [AllSafe Antivirus](https://github.com/enosgb/AllSafe)
+Cloud-based antivirus with low computational cost
+- **Stack:** Python, API-driven processing
+- **Highlight:** Published peer-reviewed article (UNIFESO Journal, 2023)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <b>7+ years of experience</b> | 🌍 Remote Worldwide | 📍 Recife, Brazil
+  <img src="https://github-readme-stats.vercel.app/api?username=enosgb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enosgb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/enosgb" target="blank">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enosgb&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
+
+---
+
+### 🏆 Experience Highlights
+
+- 💼 **Offin Soluções** - Senior Software Engineer (2022 - Present)
+  - Developed scalable backend architectures with Node.js and Python
+  - Designed complex REST APIs and microservices across multiple industries
+  - Managed cloud infrastructure (AWS, Docker, CI/CD)
+
+- 💻 **Controplan Software** - Full Stack Developer (2022)
+  - Backend services with Node.js, Python, and C# integrated with ERP systems
+  - Production environments with Docker, MSSQL, and IIS
+
+- 🐍 **UNIFESO** - Python Developer (2021 - 2022)
+  - Backend systems, automation, deployment, and security
+
+---
+
+### 📚 Education
+
+**Bachelor's Degree in Computer Science** - UNIFESO (2019 - 2022)
+
+---
+
+### 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/enosgb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:enosgb55@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://github.com/enosgb" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://stackoverflow.com/users/enosgb" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
+  </a>
 </p>
 
 ---
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=enosgb&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="enosgb" />
-  </a> 
-</p>
+### 💡 Fun Fact
 
-- 🔭 I'm currently working on **[AdMaker](https://github.com/enosgb/admaker_back)** - Full-stack ads platform (Django 6 + Vue 3)
-
-- 🌱 Specializing in **Backend Architecture, REST APIs, Microservices, Python, Django, Node.js**
-
-- 💼 **7+ years** building scalable systems | Started at 17 with C++ ERP systems
-
-- 📄 Published Research: **[Cloud-Based Antivirus Architecture](https://revista.unifeso.edu.br/index.php/unifesotec/article/view/4642/1778)** (UNIFESO Journal, 2023)
-
-- 💬 Ask me about **Python, Django, Node.js, Backend Architecture, System Design**
-
-- 📫 How to reach me **enosgb55@gmail.com**
-
-- 🎯 Open to **international remote opportunities** with simple hiring processes
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/enosgb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enosgb" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/enosgb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="enosgb" height="30" width="40" /></a>
-<a href="https://instagram.com/enosgb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enosgb" height="30" width="40" /></a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enosgb&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="enosgb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enosgb&show_icons=true&locale=en&theme=tokyonight" alt="enosgb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enosgb&theme=tokyonight" alt="enosgb" /></p>
+Started coding at 17 with C++ desktop ERP systems and never looked back! Always learning, always building. 🚀
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enosgb&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
 </p>
+
+<p align="center">⭐️ From <a href="https://github.com/enosgb">enosgb</a> - Open to international remote opportunities!</p>
