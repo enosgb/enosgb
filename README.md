@@ -103,10 +103,6 @@ Cloud-based antivirus with low computational cost
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enosgb&show_icons=true&locale=en&layout=compact" alt="enosgb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enosgb&show_icons=true&locale=en" alt="enosgb" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enosgb&" alt="enosgb" /></p>
 
 ---
