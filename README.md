@@ -66,19 +66,22 @@ Modern, responsive SPA for ads management
 #### 🛡️ [AllSafe Antivirus](https://github.com/enosgb/AllSafe)
 Cloud-based antivirus with low computational cost
 - **Stack:** Python, API-driven processing
-- **Highlight:** Published peer-reviewed article (UNIFESO Journal, 2023)
+- **Highlight:** [Published peer-reviewed article](https://revista.unifeso.edu.br/index.php/unifesotec/article/view/4642/1778) (UNIFESO Journal, 2023)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enosgb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enosgb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enosgb&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="enosgb" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enosgb&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=enosgb&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="enosgb" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enosgb&theme=tokyonight" alt="enosgb" />
 </p>
 
 ---
@@ -102,6 +105,9 @@ Cloud-based antivirus with low computational cost
 ### 📚 Education
 
 **Bachelor's Degree in Computer Science** - UNIFESO (2019 - 2022)
+
+**📄 Published Research:**
+- [Cloud-Based Antivirus Architecture with Low Computational Cost](https://revista.unifeso.edu.br/index.php/unifesotec/article/view/4642/1778) - UNIFESO Journal (2023)
 
 ---
 
