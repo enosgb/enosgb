@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Enos Gabriel
+# 👋 Hi, I'm Enos Melo
 
-## Senior Backend / Full Stack Engineer
-
+## Senior Engineer | Project Manager
+ 
 💼 **7+ years** of experience building scalable systems | 🌍 **Remote Worldwide** from Recife, Brazil
 
 ---
